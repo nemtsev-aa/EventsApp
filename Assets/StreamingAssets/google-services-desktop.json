@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605167499193",
+    "firebase_url": "https://eventsapp-h1-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "eventsapp-h1",
+    "storage_bucket": "eventsapp-h1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605167499193:android:858e39f26c0f206067e868",
+        "android_client_info": {
+          "package_name": "com.BGQuantorium.EventsApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605167499193-kg590i0e48gbs34efm4ckb090ijiqbu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_FJ1CATF_7YL_ARjpw-KK3gy3JltKpgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605167499193-kg590i0e48gbs34efm4ckb090ijiqbu5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605167499193-afvkvtgkgs17bccusgg1cke26faq1pfc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.BGQuantorium.EventsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

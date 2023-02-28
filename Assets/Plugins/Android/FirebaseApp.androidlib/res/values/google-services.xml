@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://eventsapp-h1-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">605167499193</string>
+  <string name="google_storage_bucket" translatable="false">eventsapp-h1.appspot.com</string>
+  <string name="project_id" translatable="false">eventsapp-h1</string>
+  <string name="google_api_key" translatable="false">AIzaSyA_FJ1CATF_7YL_ARjpw-KK3gy3JltKpgE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA_FJ1CATF_7YL_ARjpw-KK3gy3JltKpgE</string>
+  <string name="google_app_id" translatable="false">1:605167499193:android:858e39f26c0f206067e868</string>
+  <string name="default_web_client_id" translatable="false">605167499193-kg590i0e48gbs34efm4ckb090ijiqbu5.apps.googleusercontent.com</string>
+</resources>
